@@ -1,10 +1,6 @@
 # Analise-com-SQL-no-Metabase
 
-Com base no arquivo de apresentação fornecido, compilei um `README.md` detalhado e profissional para o seu GitHub. Ele não apenas apresenta o desafio, mas foca nos resultados e nos insights que você gerou, utilizando os gráficos e as queries do seu trabalho.
-
-É só copiar e colar o texto abaixo em um arquivo chamado `README.md` no seu repositório do GitHub. **Lembre-se de fazer o upload das imagens dos seus gráficos para o repositório e atualizar os links nos placeholders.**
-
------
+https://dncgroupbr.notion.site/Desafio-Gere-planos-de-a-o-a-partir-de-an-lises-com-SQL-b1d2722500654bceba2944c6a7b22995
 
 # Análise de Leads para EdTech: Insights e Planos de Ação com SQL
 
